@@ -116,15 +116,19 @@ zh:大妖精
 ja:村紗水蜜
 en:Murasa Minamitsu
 es:Murasa Minamitsu
+zh:村纱水蜜
 
 ja:フランドール・スカーレット
 en:Flandre Scarlet
 es:Flandre Scarlet
+zh:芙兰朵露·斯卡蕾特
 
 ja:魂魄妖夢
 en:Youmu Konpaku
 es:Youmu Konpaku
+zh:魂魄妖梦
 
 ja:八雲紫
 en:Yukari Yakumo
 es:Yukari Yakumo
+zh:八云紫
